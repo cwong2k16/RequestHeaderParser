@@ -1,0 +1,23 @@
+{
+  "name": "requestheaderparser",
+  "version": "1.0.0",
+  "description": "a node.js microservice for returning parsed request header values",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cwong2k16/RequestHeaderParser.git"
+  },
+  "author": "Christopher Wong",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cwong2k16/RequestHeaderParser/issues"
+  },
+  "homepage": "https://github.com/cwong2k16/RequestHeaderParser#readme",
+  "dependencies": {
+    "express": "^4.16.2",
+    "nodemon": "^1.14.3"
+  }
+}
